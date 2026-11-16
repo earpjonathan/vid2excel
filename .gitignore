@@ -1,0 +1,13 @@
+# Everything is ignored by default: clips, workbooks and reels in out/ are
+# copyrighted footage and stay local. Only code and docs are let back in.
+/*
+
+!/.gitignore
+!/README.md
+!/LICENSE
+!/requirements.txt
+!/*.py
+
+__pycache__/
+*.pyc
+.DS_Store
